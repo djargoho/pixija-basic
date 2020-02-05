@@ -1,5 +1,5 @@
 // window["PIXI"];
-
+//
 const canvas = document.getElementById("mycanvas");
 
 const app = new PIXI.Application({
